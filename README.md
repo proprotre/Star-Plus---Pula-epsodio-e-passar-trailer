@@ -7,3 +7,6 @@ Ao iniciar um filme, vídeo, série na Star Plus, é somente abrir a pasta onde 
 OBS: Talvez seja necessário somente substituir as imagens 1.png e 2.png por prints de sua tela, isso ocorre devido a resolução da minha tela ser diferente da sua no momento em que tirei os prints.
 
 Qualquer dúvida abra uma Issue.
+
+## Autor
+Gabriel Badaró
